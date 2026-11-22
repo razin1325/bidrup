@@ -1,5 +1,8 @@
 # Cultural Blindspots in Multimodal AI: Evaluating VLMs on Bangladeshi Political Satire
 
+### Accepted for Publication in 2026 29th International Conference on Computer and Information Technology (ICCIT) 🎉
+*18–20 December 2026, Cox’s Bazar, Bangladesh*
+
 
 
 > 🌐 **TL;DR:** BD_Political_QA introduces a 176-meme bilingual benchmark spanning 2,464 verified QA pairs in English and Bangla that enables multimodal political satire evaluation, revealing how model scale, cultural context, and chain-of-thought prompting shape reasoning performance.
@@ -9,10 +12,12 @@
 ### Cite
 
 ```bibtex
-@article{molla2026cultural,
+@inproceedings{molla2026cultural,
   title={Cultural Blindspots in Multimodal AI: Evaluating VLMs on Bangladeshi Political Satire},
   author={Molla, Razin Ibn Asad and Haque, Md. Toriqul and Samir, Sujon and Hossain, Tuhin and Rodela, Anika Tasnim and Sobhani, Mahbub E},
-  journal={arXiv preprint},
-  year={2026}
+  booktitle={2026 29th International Conference on Computer and Information Technology (ICCIT)},
+  year={2026},
+  month={December},
+  address={Cox's Bazar, Bangladesh}
 }
 ```
